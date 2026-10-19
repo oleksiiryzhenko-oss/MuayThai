@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158699299301",
+    "project_id": "mmm1-b683c",
+    "storage_bucket": "mmm1-b683c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158699299301:android:e98588890a8ab35bdc4f0c",
+        "android_client_info": {
+          "package_name": "com.muaythai.arena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALRoWRXz2-qNS4vxJ36rTE7y3o5XZYh7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:gravity="center"
+    android:padding="32dp" android:background="@drawable/entry_loading_background"
+    android:clickable="true" android:focusable="true">
+    <ImageView android:layout_width="112dp" android:layout_height="112dp"
+        android:src="@drawable/logo" android:scaleType="fitCenter" android:padding="18dp"
+        android:background="@drawable/entry_logo_background" android:elevation="8dp"
+        android:importantForAccessibility="no" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="28dp" android:text="@string/app_name"
+        android:textColor="#FFFFFF" android:textSize="34sp" android:fontFamily="sans-serif-medium"
+        android:letterSpacing="0.08" android:gravity="center" />
+    <ProgressBar style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="96dp" android:layout_height="4dp" android:layout_marginTop="32dp"
+        android:indeterminate="true" android:indeterminateTint="#EF2345"
+        android:importantForAccessibility="no" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="18dp" android:text="@string/entry_loading"
+        android:textColor="#B4BAC4" android:textSize="14sp" android:gravity="center"
+        android:accessibilityLiveRegion="polite" />
+</LinearLayout>

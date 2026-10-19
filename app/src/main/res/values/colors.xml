@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="arena_red">#FFD4102F</color>
+    <color name="arena_white">#FFFFFFFF</color>
+    <color name="arena_ink">#FF1A1114</color>
+    <color name="arena_gold">#FFD4AF37</color>
+</resources>

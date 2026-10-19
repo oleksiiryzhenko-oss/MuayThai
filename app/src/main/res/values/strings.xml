@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Win2day</string>
+    <string name="reminder_channel_name">Training reminders</string>
+    <string name="reminder_channel_desc">A daily nudge to get your rounds in</string>
+    <string name="reminder_title">Your fight camp is waiting</string>
+    <string name="reminder_text">Today\'s mission is still open. Get your rounds in and keep the streak alive.</string>
+    <string name="entry_loading">Loading…</string>
+</resources>
