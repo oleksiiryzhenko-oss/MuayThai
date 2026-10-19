@@ -40,8 +40,8 @@ android {
         require(returnHost.matches(Regex("[A-Za-z0-9.-]+")))
         buildConfigField("String", "RETURN_HOST", "\"$returnHost\"")
         manifestPlaceholders["returnHost"] = returnHost
-        versionCode = 1
-        versionName = "1.0.0"
+        versionCode = 2
+        versionName = "1.0.1"
         vectorDrawables { useSupportLibrary = true }
     }
 
